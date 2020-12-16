@@ -1,0 +1,2 @@
+sample input: 2 7
+sample output: 2 3 5 7
